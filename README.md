@@ -1,0 +1,3 @@
+# SPTotemZ
+Texture pack for the SP server, which replaces totems with custom ones, more details in the releases...
+The models are made in the Blockbench program
